@@ -1,9 +1,29 @@
 - I'm just a student
 
+<head>
+<style>
+html[data-color-mode="dark"] #card-light {
+display: none;
+height: 0;
+}
+
+html[data-color-mode="light"] #card-dark {
+  display: none;
+  height: 0;
+}
+
+.card {
+  height: 150px;
+}
+</style>
+</head>
 <a href="https://github.com/Xenxia">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&title_color=6bd600&text_color=dedede&icon_color=438600&bg_color=0d1117&hide_border=true&count_private=true" alt="Xenxia's github stats" />
+  <img class="card" id="card-dark" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&title_color=6bd600&text_color=dedede&icon_color=438600&bg_color=0d1117&hide_border=true&count_private=true" alt="Xenxia's github stats" />
+  <img class="card" id="card-light" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&title_color=6bd600&text_color=dedede&icon_color=438600&bg_color=ffffff&hide_border=true&count_private=true" alt="Xenxia's github stats" />
+  
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xenxia&title_color=6bd600&text_color=dedede&icon_color=438600&bg_color=0d1117&hide_border=true&layout=compact" alt="Xenxia's github top languages" />
 </a>
+
 <br/><br/>
 
 ![Me](https://img.shields.io/badge/Me-2.0-brightgreen?style=flat)
