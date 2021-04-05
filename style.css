@@ -1,0 +1,13 @@
+html[data-color-mode="dark"] #card-light {
+  display: none;
+  height: 0;
+}
+
+html[data-color-mode="light"] #card-dark {
+  display: none;
+  height: 0;
+}
+
+.card {
+  height: 150px;
+}
