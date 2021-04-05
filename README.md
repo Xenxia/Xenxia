@@ -1,21 +1,7 @@
 - I'm just a student
 
 <head>
-<style>
-html[data-color-mode="dark"] #card-light {
-display: none;
-height: 0;
-}
-
-html[data-color-mode="light"] #card-dark {
-  display: none;
-  height: 0;
-}
-
-.card {
-  height: 150px;
-}
-</style>
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/Xenxia/Xenxia/main/style.css">
 </head>
 <a href="https://github.com/Xenxia">
   <img class="card" id="card-dark" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&title_color=6bd600&text_color=dedede&icon_color=438600&bg_color=0d1117&hide_border=true&count_private=true" alt="Xenxia's github stats" />
