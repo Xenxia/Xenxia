@@ -1,4 +1,4 @@
-- I'm just a student
+- I'm just a peanut
 
 <a href="https://github.com/Xenxia">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&title_color=6bd600&text_color=dedede&icon_color=438600&bg_color=0d1117&hide_border=true&count_private=true" alt="Xenxia's github stats" />
@@ -8,4 +8,4 @@
 
 <br/><br/>
 
-![Me](https://img.shields.io/badge/Me-2.0-brightgreen?style=flat)
+<!-- ![Me](https://img.shields.io/badge/Me-2.0-brightgreen?style=flat) -->
