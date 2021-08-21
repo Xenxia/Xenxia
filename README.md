@@ -10,7 +10,8 @@
 
 <details>
 <summary>Log</summary>
-<p> it's a prank </p>
+<br/>
+<strong>it's a prank</strong>
 </details>
 
 <!-- ![Me](https://img.shields.io/badge/Me-2.0-brightgreen?style=flat) -->
