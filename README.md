@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="AnimatedImagePlayer enabled playing" src="https://github.com/Xenxia/Xenxia/blob/main/retroWaveGif-3.gif?raw=true" alt="its gif"  width="870" height="200" />
+  <img src="https://github.com/Xenxia/Xenxia/blob/main/retroWaveGif-4.gif?raw=true" alt="its gif" />
 </p>
 
 
