@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Xenxia/Xenxia/blob/main/retroWaveGif-4.gif?raw=true" alt="its gif" />
+    <img src="https://github.com/Xenxia/Xenxia/blob/main/retroWaveGif-4.gif?raw=true" alt="its gif" />
 </p>
 
 
