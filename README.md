@@ -1,7 +1,10 @@
-<p align="center">
+<div align="center">
     <img src="https://github.com/Xenxia/Xenxia/blob/main/retroWaveGif-4.gif?raw=true" alt="its gif" />
+    <h1><h1/>
     <img src="./github-metrics.svg" alt="its gif" />
-</p>
+</div>
+
+
 
 
 <!-- 
