@@ -22,14 +22,27 @@
 
 # My Projects
 ### Software
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=SortedTree&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=ProxmoxTools&theme=vue-dark&hide_border=true&show_icons=True" alt="github-ProxmoxTools-stats">
+<a href="https://github.com/Xenxia/SortedTree">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=SortedTree&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+</a>
+  
+<a href="https://github.com/Xenxia/ProxmoxTools">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=ProxmoxTools&theme=vue-dark&hide_border=true&show_icons=True" alt="github-ProxmoxTools-stats">
+</a>
 
 ### Libs
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Go&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Python&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Rust&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+<a href="https://github.com/CheeseGrinder/TemplateStr-Go">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Go&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+</a>
+  
+<a href="https://github.com/CheeseGrinder/TemplateStr-Python">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Python&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+</a>    
 
+<a href="https://github.com/CheeseGrinder/TemplateStr-Rust">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Rust&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+</a>
+  
 # My Contributions
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Xenxia&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 <img width="377" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="My github stats" /> 
