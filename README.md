@@ -45,9 +45,9 @@
   
 # My Contributions
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Xenxia&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img width="377" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="My github stats" /> 
+<!-- <img width="377" src="https://github-readme-stats.vercel.app/api?username=Xenxia&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenxia&layout=compact&theme=vue-dark&hide_border=true" alt="8651fd65.html"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenxia&layout=compact&theme=vue-dark&hide_border=true" alt="8651fd65.html"/> -->
 </br></br></br>
 
 © 2023 Xenxia, Made with ❤️ for a better web. </p>
