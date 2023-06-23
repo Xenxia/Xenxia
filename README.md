@@ -22,8 +22,8 @@
 
 # My Projects
 ### Software
-<a href="https://github.com/Xenxia/SortedTree">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=SortedTree&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+<a href="https://github.com/Xenxia/SortedKi">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=SortedKi&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
 </a>
   
 <a href="https://github.com/Xenxia/ProxmoxTools">
