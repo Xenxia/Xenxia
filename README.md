@@ -23,24 +23,24 @@
 # My Projects
 ### Software
 <a href="https://github.com/Xenxia/SortedKi">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=SortedKi&theme=vue-dark&hide_border=true&show_icons=True&title_color=#aa0000" alt="github-SortedTree-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=SortedKi&title_color=ee4a77&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
 </a>
   
 <a href="https://github.com/Xenxia/ProxmoxTools">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=ProxmoxTools&theme=vue-dark&hide_border=true&show_icons=True" alt="github-ProxmoxTools-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Xenxia&repo=ProxmoxTools&title_color=D8A300&theme=vue-dark&hide_border=true&show_icons=True" alt="github-ProxmoxTools-stats">
 </a>
 
 ### Libs
 <a href="https://github.com/CheeseGrinder/TemplateStr-Go">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Go&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Go&title_color=00ADD8&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
 </a>
   
 <a href="https://github.com/CheeseGrinder/TemplateStr-Python">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Python&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Python&title_color=3572A5&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
 </a>    
 
 <a href="https://github.com/CheeseGrinder/TemplateStr-Rust">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Rust&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CheeseGrinder&repo=TemplateStr-Rust&title_color=DEA584&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
 </a>
   
 # My Contributions
