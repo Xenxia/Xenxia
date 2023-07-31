@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 # Database
-<img src="https://img.shields.io/badge/MariaDB-202020?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-eaeaea?style=for-the-badge&logo=mariadb&logoColor=black" />
 
 # My Projects
 ### Software
