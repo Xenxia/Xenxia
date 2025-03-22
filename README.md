@@ -43,7 +43,7 @@
 
 </br></br>
 
-<p>© 2023 Xenxia, Made with ❤️ by Xenxia </p>
+<p>© 2025 Xenxia, Made with ❤️ by Xenxia </p>
 
 [Cheese-grinder](https://github.com/CheeseGrinder)
 
